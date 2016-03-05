@@ -1,1 +1,3 @@
 # ScientificPython
+
+## Grupo de Estudos
